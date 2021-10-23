@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+deploy:
+  type: git
+  repository: git@github.com:like9th/yuzu.github.io.git
+  branch: main
