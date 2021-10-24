@@ -100,18 +100,20 @@ appearance:
 profile:
   # `email` is used for gravatar(https://en.gravatar.com),
   # fallback to `hexo.config.email` if not specified
-  email:
+  email: edonblay@gmail.com
 
   # You can set Avatar URL directly
-  # avatar:
+  avatar: /images/avatar.jpg
 
-  bio: Awesome guy.
+  bio: Yuzuの喵生
 
 # Sidebar navigation links
 menu:
   Home: /
-  # About: /about
-  # Links: /links
+  Categories: /categories
+  tags: /tags
+  Search: /search
+  About: /about
   # Github: https://github.com/username
 
 # Social media URL
