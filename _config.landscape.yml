@@ -23,7 +23,7 @@ appearance:
   # 'url(//www.toptal.com/designers/subtlepatterns/patterns/confectionary.png) #f5f7fa'
 
   # Maximum width of content
-  # content_width: 640
+  # content_width: 800
 
   # Fonts
   font:
@@ -36,7 +36,7 @@ appearance:
     # Sidebar author font, fallback to `base`
     logo:
     # Sidebar menu font, fallback to `base`
-    menu: 'Baloo Bhaijaan'
+    menu: 'Yuzuの喵生'
     # Font for:
     # - percentage on the fab button
     # - month text on archives page
@@ -101,12 +101,12 @@ appearance:
 profile:
   # `email` is used for gravatar(https://en.gravatar.com),
   # fallback to `hexo.config.email` if not specified
-  email:
+  email: like09th@gmail.com
 
   # You can set Avatar URL directly
   # avatar:
 
-  bio: Awesome guy.
+  bio: 喵喵喵~
 
 # Sidebar navigation links
 menu:
@@ -170,10 +170,10 @@ page:
 
 # Post
 post:
-  # per_page: 10
-  # reading_time: false
-  # reading_time:
-  #   wpm: 150
+  per_page: 10
+  reading_time: true
+  reading_time:
+     wpm: 150
   #   text: ":words words in :minutes min"
 
   # The following settings are the same as the page
